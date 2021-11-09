@@ -1,0 +1,38 @@
+# TheFirstRepositoy
+try the github reposity
+命名以图片特征分为四个：图片组成和位置、字体、字体颜色、背景颜色（以空格分开）
+一、图片组成和位置说明
+	W--with
+	N--no
+	L--line
+	C--Circle
+	up--上
+	down--下
+	right--右
+	left--左
+	in--在里
+	out--在外
+	overlap--重叠
+前两个大写字母表示图片的组成方式：图片的组成一定有“盾剑”和“CQU_CSL”,W和N表示是否有其他元素存在。只有“盾剑”和“CQU_CSL”的图片在组成上是NL（不存在其他元素）。如果存在线的话则是WL，存在圆的话则是WC。
+之后的两个单词表示图片元素的相对位置，相对于其他元素的位置（没有其他元素的话就是“盾剑”和“CQU_CSL”的相对位置）。前一个单词是“盾剑”的位置，后一个单词是“CQU_CSL”的位置。主要的位置有updown（上下）、leftright（左右）、inout（里外）等等。
+二、字体命名说明
+	Frutiger--第一类字体
+	Futura--第二类字体
+	Courier--打印机字体
+	Din--长体
+	Italics--斜体
+	Trajan--石碑体
+	Bookman--印刷字体
+第一二类字体略有相似，字体主要的区别在于每个字母所占像素长宽比，字母的书写形式等等。
+三、字体颜色
+	pink--粉色
+	green--绿色
+	white--白色
+	yellow--黄色
+	gray--灰色
+	black--黑色
+	red--红色
+	blue--蓝色
+	bottle（深色形容）、（不标注为中间亮度）、light（浅色形容）
+四、背景颜色
+	背景颜色标注同字体颜色
